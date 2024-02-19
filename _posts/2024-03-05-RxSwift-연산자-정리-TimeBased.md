@@ -1,6 +1,6 @@
 ---
 title: "RxSwift 연산자 정리 ⑤ - TimeBased"
-date: 2024-3-5 22::00 + 0900
+date: 2024-03-05 22:00:00 + 0900
 categories: [개발 일기, RxSwift]
 tags: [rxswift]
 image: /assets/img/20231201/1.png
