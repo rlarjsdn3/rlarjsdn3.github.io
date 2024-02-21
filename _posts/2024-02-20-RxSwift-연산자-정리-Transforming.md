@@ -8,7 +8,7 @@ image: /assets/img/20231201/1.png
 
 ## Transforming 연산자
 
-Transforming 연산자는 `옵저버블`이 방출하는 항목을 다른 항목으로 바꾸거나 새로운 항목으로 대체할 수 있는 연산자입니다. 이러한 연산자는 전달한 클로저에 따라 `옵저버블`이 방출하는 항목을 다른 항목으로 바꿀 수 있습니다. 대표적인 연산자로 `toArray`, `flatMap`, `concatMap`, `scan`, `reduce` 연산자가 있습니다.  
+Transforming 연산자는 `옵저버블`이 방출하는 항목을 다른 항목으로 바꾸거나 새로운 항목으로 대체할 수 있는 연산자입니다. 이러한 연산자는 전달한 클로저에 따라 `옵저버블`이 방출하는 항목을 다른 항목으로 바꿀 수 있습니다. 대표적인 연산자로 `toArray`, `flatMap`, `concatMap`, `scan`, `reduce` 연산자가 있습니다.
 
 ### toArray
 
@@ -282,3 +282,4 @@ Observable<String>.from(words)
 ## 참고 자료
 
 * [ReactiveX 공식 문서](https://reactivex.io/documentation/operators.html)
+
