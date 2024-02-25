@@ -26,7 +26,7 @@ Observable<Int>.from(numbers)
     .disposed(by: disposeBag)
  ``` 
 
- ### concat
+### concat
 
 | 메서드               | 설명                 | 비고 |
 |:-----------------: | :------------------ | :-- |
@@ -49,7 +49,7 @@ fruits
     .disposed(by: disposeBag)
  ``` 
 
- ### merge
+### merge
 
 | 메서드               | 설명                 | 비고 |
 |:-----------------: | :------------------ | :-- |
@@ -77,7 +77,7 @@ third.onNext(101)
 third.onCompleted()
  ``` 
 
- ### combineLatest
+### combineLatest
 
 | 메서드               | 설명                 | 비고 |
 |:-----------------: | :------------------ | :-- |
@@ -103,7 +103,7 @@ greeting.onCompleted()
 language.onCompleted()
  ``` 
 
- ### zip
+### zip
 
 | 메서드               | 설명                 | 비고 |
 |:-----------------: | :------------------ | :-- |
@@ -129,7 +129,7 @@ numbers.onCompleted()
 strings.onCompleted()
  ``` 
 
- ### withLatestFrom
+### withLatestFrom
 
 | 메서드               | 설명                 | 비고 |
 |:-----------------: | :------------------ | :-- |
@@ -152,7 +152,7 @@ source.onCompleted()
 trigger.onCompleted()
  ``` 
 
- ### sample
+## sample
 
 | 메서드               | 설명                 | 비고 |
 |:-----------------: | :------------------ | :-- |
@@ -178,7 +178,7 @@ source.onCompleted()
 trigger.onNext(())
  ``` 
 
- ### switchLatest
+### switchLatest
 
 | 메서드               | 설명                 | 비고 |
 |:-----------------: | :------------------ | :-- |
