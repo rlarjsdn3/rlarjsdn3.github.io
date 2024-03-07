@@ -6,7 +6,7 @@ tags: [rxswift]
 image: /assets/img/20231201/1.png
 ---
 
-## TimeBased 연산자
+## TimeBased 연산자 
 
 TimeBased 연산자는 `옵저버블`이 시간의 흐름에 따라 특정 항목을 방출하게 하거나, 지연시킬 수 있는 연산자입니다. 대표적인 연산자로 `interval`, `timeout`, `delay` 연산자가 있습니다.  
 
