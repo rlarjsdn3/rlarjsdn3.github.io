@@ -54,7 +54,7 @@ subject.onNext(30)
 subject.onError(MyError.error)
  ``` 
 
- ### retry
+### retry
 
 | 메서드               | 설명                 | 비고 |
 |:-----------------: | :------------------ | :-- |
@@ -87,7 +87,7 @@ source
     .disposed(by: disposeBag)
  ``` 
 
- ### retryWhen
+### retryWhen
 
 | 메서드               | 설명                 | 비고 |
 |:-----------------: | :------------------ | :-- |
