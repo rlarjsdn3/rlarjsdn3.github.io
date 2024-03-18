@@ -2,7 +2,7 @@
 title: "삐삐의 핵심 뼈대인 ReactorKit 뿌셔보기"
 date: 2024-04-05 22:00:00 + 0900
 categories: [개발 일기, 디프만]
-tags: [독서]
+tags: [reactorKit, rxSwift, rxCocoa]
 image: /assets/img/20240405/1.png
 ---
 
