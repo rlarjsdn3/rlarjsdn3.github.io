@@ -1,7 +1,7 @@
 ---
 title: "[번역] Stack과 Heap 메모리 할당의 비교"
 date: 2024-2-15 22:00:00 + 0900
-categories: [개발 일기, 기타]
+categories: [일상 일기, 기타]
 tags: [기타]
 image: /assets/img/20231202/1.png
 ---
