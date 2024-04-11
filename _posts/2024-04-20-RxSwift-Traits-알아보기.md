@@ -8,7 +8,7 @@ image: /assets/img/20231201/1.png
 
 ## Traits
 
-`Traits`은 `Observable`의 기능을 제한해 그 의미를 쉽게 파악하고 특정 목적에 사용이 용이하도록 래핑(Wrapping)한 `Observable`입니다. `Traits`은 `Subject`를 래핑한 `Relay` 마냥 `Observable`을 래핑한 모양을 띄고 있습니다. 따라서 `Traits`은 직관적인 코드를 작성하는 데 많은 도움을 줍니다. 개발자는 네트워크 통신, 디스크 I/O 등 여러 로직에 `Traits`을 선택적으로 적용할 수 있습니다. `Tratis`은 강제가 아니라 선택 사항이므로, 상황에 맞추어 적절하게 사용하면 가독성 높은 코드를 작성하는 데 많은 도움이 됩니다.
+`Traits`은 `Observable`의 기능을 제한하거나 추가해 특정 목적에 사용이 용이하도록 래핑(Wrapping)한 `Observable`입니다. `Traits`은 `Subject`를 래핑한 `Relay` 마냥 `Observable`을 래핑한 모양을 띄고 있습니다. 따라서 `Traits`은 직관적인 코드를 작성하는 데 많은 도움을 줍니다. 개발자는 네트워크 통신, 디스크 I/O 등 여러 로직에 `Traits`을 선택적으로 적용할 수 있습니다. `Tratis`은 강제가 아니라 선택 사항이므로, 상황에 맞추어 적절하게 사용하면 가독성 높은 코드를 작성하는 데 많은 도움이 됩니다.
 
 RxSwift에서 `Traits`은 크게 `Single`, `Completable`과 `Maybe`로 나뉩니다. 각 `Traits`의 특징은 **어떤 종류의 항목을 방출할 수 있냐**는 차이 밖에 없습니다.
 
@@ -19,11 +19,6 @@ RxSwift에서 `Traits`은 크게 `Single`, `Completable`과 `Maybe`로 나뉩니
 네트워크 통신 결과 혹은 실패와 같은 항목을 전파하는 데 주로 사용되는 `Traits`입니다. 네트워크 통신에 성공한다면 그 결과를 `success` 항목과 함께 방출하고, 그렇지 않다면 `failure` 항목을 방출합니다. 아래는 `Single`로 네트워크 통신을 하는 방법을 보여줍니다.
 
 ```swift
-enum MyError: Error {
-    case networkError
-    case parsingError
-}
-
 typealias PostType = [[String: Any]]
 func fetchPost() -> Single<PostType> {
     return Single<PostType>.create { single in
