@@ -1,6 +1,6 @@
 ---
 title: "MVVM 패턴에 RxSwift 묻혀보기"
-date: 2024-04-05 22:00:00 + 0900
+date: 2024-05-15 22:00:00 + 0900
 categories: [개발 일기, RxSwift]
 tags: [rxswift]
 image: /assets/img/20231201/1.png
