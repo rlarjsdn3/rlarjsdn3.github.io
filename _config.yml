@@ -31,7 +31,7 @@ github:
   username: rlarjsdn3 # change to your github username
 
 twitter:
-  username: twitter_username # change to your twitter username
+  username: 김지지 # change to your twitter username
 
 social:
   # Change to your full name.
@@ -40,8 +40,8 @@ social:
   email: rlarjsdn3@naver.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your twitter homepage
-    - https://github.com/username # change to your github homepage
+    - https://twitter.com/rlarjsdn3 # change to your twitter homepage
+    - https://github.com/rlarjsdn3 # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -114,7 +114,7 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-baseurl: ""
+baseurl: "rlarjsdn3.github.io"
 
 # ------------ The following options are not recommended to be modified ------------------
 
