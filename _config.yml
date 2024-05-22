@@ -74,7 +74,7 @@ theme_mode: light # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "assets/img/zizi.jpg"
+avatar: assets/img/zizi.jpg
 
 # boolean type, the global switch for TOC in posts.
 toc: true
@@ -113,7 +113,7 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-baseurl: "rlarjsdn3.github.io"
+baseurl: rlarjsdn3.github.io
 
 # ------------ The following options are not recommended to be modified ------------------
 
