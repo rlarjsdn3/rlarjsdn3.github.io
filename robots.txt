@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://rlarjsdn3.github.io/sitemap.xml
