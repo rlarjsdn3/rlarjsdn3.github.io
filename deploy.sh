@@ -14,8 +14,8 @@ git config user.email >/dev/null 2>&1 || git config user.email "auto-deploy@exam
 
 # 한국 시간 기준 날짜로 커밋 메시지 구성
 export TZ=Asia/Seoul
-TODAY="$(date +%Y-%m-%d)"
-MSG="commited at ${TODAY}"
+TODAY="$(date +"%Y-%m-%d %H:%M")"
+MSG="deployed at ${TODAY}"
 
 # 변경 사항 스테이징 & 커밋(변경이 없으면 스킵)
 git add -A

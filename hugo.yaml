@@ -12,6 +12,12 @@ minify:
   disableXML: true
   minifyOutput: true
 
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: 김소월
@@ -37,7 +43,7 @@ params:
   comments: false
   hidemeta: false
   hideSummary: false
-  showtoc: false
+  showtoc: true
   tocopen: false
 
   assets:
@@ -75,9 +81,9 @@ params:
     Content: 흰둥이와 나란히 앉아 매일 코딩해요.
 
   socialIcons:
-    - name: github
-      url: "https://github.com/rlarjsdn3"
     - name: linkedIn
+      url: "https://github.com/rlarjsdn3"
+    - name: github
       url: "https://github.com/rlarjsdn3"
     - name: gitbook
       url: "https://rlarjsdn3.gitbook.io/swift-concurrency/"
