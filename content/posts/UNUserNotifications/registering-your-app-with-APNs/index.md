@@ -1,7 +1,7 @@
 ---
 date: '2025-09-25T20:41:44+09:00'
 draft: false
-title: '[번역] UNUserNotifications / Registering Your App With APNs'
+title: '[번역] UNUserNotifications / Registering Your App With APNs (애플 공식 문서)'
 description: "Apple 푸시 알림 서버(APNs)와 통신하여 앱을 식별하는 고유한 디바이스 토큰을 받으세요."
 tags: ["Remote Notifications", "UIApplication"]
 categories: ["UNUserNotifications"]

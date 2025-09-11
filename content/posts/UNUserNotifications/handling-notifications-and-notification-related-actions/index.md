@@ -1,7 +1,7 @@
 ---
 date: '2025-09-20T14:21:37+09:00'
 draft: false
-title: '[번역] UNUserNotifications / Handling Notifications and Notification Related Actions'
+title: '[번역] UNUserNotifications / Handling Notifications and Notification Related Actions (애플 공식 문서)'
 description: "시스템의 알림 인터페이스에서 발생하는 사용자 상호작용에 응답하고, 앱의 사용자 지정 동작을 처리하세요."
 tags: ["UNUserNotificationCenter", "UNNotificationAction", "UNNotificationCategory"]
 categories: ["UNUserNotifications"]

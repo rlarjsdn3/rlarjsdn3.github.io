@@ -1,7 +1,7 @@
 ---
 date: "2025-09-10T20:36:49+09:00"
 draft: false
-title: "[번역] UNUserNotifications / Asking permission to use notifications"
+title: "[번역] UNUserNotifications / Asking permission to use notifications (애플 공식 문서)"
 description: "알림에 대한 응답으로 경고(alert)을 표시하거나, 사운드를 재생하거나, 앱 아이콘에 배지를 표시할 수 있도록 권한을 요청합니다."
 tags: ["UNUserNotificationCenter"]
 categories: ["UNUserNotifications"]
