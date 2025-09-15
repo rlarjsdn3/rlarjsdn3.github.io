@@ -183,7 +183,7 @@ cover:
 
 | 이미지 | 이미지 | 이미지 | 이미지 
 | :-: | :-: | :-: | :-: |
-| {{< figure src="proj-3-1.png" >}} | {{< figure src="proj-3-2.png" >}} | {{< figure src="proj-3-3.png" >}} | {{< figure src="proj-3-4.png" >}} |
+| {{< figure src="proj-3-1-m.png" >}} | {{< figure src="proj-3-2-m.png" >}} | {{< figure src="proj-3-3-m.png" >}} | {{< figure src="proj-3-4-m.png" >}} |
 
 약 한 달 동안 진행한 프로젝트로, 기존에는 노션으로만 아이디어를 수집하고 기획했지만 이번에는 팀원의 제안으로 *FigJam*을 활용해 기획을 진행했습니다. 초기에는 *HealthKit*의 수면 데이터를 기반으로 앱을 구현하려 했으나, iOS 18부터는 애플워치를 착용해야만 수면 데이터가 기록된다는 사실을 뒤늦게 파악해 기획을 변경해야 했습니다. 충분한 사전 조사가 이루어지지 못했던 점은 분명 아쉬운 부분이었습니다.
 
