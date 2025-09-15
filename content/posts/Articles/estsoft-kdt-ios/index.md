@@ -78,7 +78,7 @@ cover:
 | :-: | :-: | :-: |
 | {{< figure src="BookMyTrip-1.png" >}} | {{< figure src="BookMyTrip-2.png" >}} | {{< figure src="BookMyTrip-3.png" >}} |
 
-[GitHub 링크]()
+[GitHub 링크](https://github.com/rlarjsdn3/BookMyTrip-SwiftUI)
 
 
 #### 로그인 화면 (UIKit)
@@ -87,7 +87,7 @@ cover:
 | :-: | :-: | :-: |
 | {{< figure src="Pirate-1.png" >}} | {{< figure src="Pirate-2.png" >}} | {{< figure src="BookMyTrip-3.png" >}} |
 
-[GitHub 링크]()
+[GitHub 링크](https://github.com/rlarjsdn3/Pirate-SignIn-UIKit)
 
 
 #### 뉴스 탐색 앱 (UIKit)
@@ -97,7 +97,7 @@ cover:
 | {{< figure src="News-1.png" >}} | {{< figure src="News-2.png" >}} | {{< figure src="News-3.png" >}} |
 | {{< figure src="News-4.png" >}} | {{< figure src="News-5.png" >}} | {{< figure src="News-6.png" >}} |
 
-[GitHub 링크]()
+[GitHub 링크](https://github.com/rlarjsdn3/News-UIKit)
 
 단순히 과제를 수행하는 수준을 넘어, 필수 요구사항에 없던 홈 화면, 검색, 북마크 저장·불러오기 기능까지 직접 구현하며 프로젝트의 완성도를 높였습니다. 또한 스티키 헤더(Sticky Header), 테이블 뷰 셀 내부에 컬렉션 뷰를 삽입하는 등 새로운 시도를 통해 다양한 UI/UX 패턴을 실험했습니다.
 
@@ -111,7 +111,7 @@ cover:
 | {{< figure src="Banking-1.png" >}} | {{< figure src="Banking-2.png" >}} | {{< figure src="Banking-3.png" >}} |
 | {{< figure src="Banking-4.png" >}} | {{< figure src="Banking-5.png" >}} | {{< figure src="Banking-6.png" >}} |
 
-[GitHub 링크]()
+[GitHub 링크](https://github.com/rlarjsdn3/Mobile-Banking-App-UIKit)
 
 
 #### 앱스토어 투데이 화면 (UIKit)
@@ -120,7 +120,7 @@ cover:
 | :-: | :-: | :-: |
 | {{< figure src="Store-1.png" >}} | {{< figure src="Store-2.png" >}} | {{< figure src="Store-3.png" >}} |
 
-[GitHub 링크]()
+[GitHub 링크](https://github.com/rlarjsdn3/App-Store-UIKit)
 
 
 
