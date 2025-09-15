@@ -1,5 +1,5 @@
 ---
-date: "2024-09-15T14:00:08+09:00"
+date: "2025-09-15T14:00:08+09:00"
 draft: false
 title: "ESTsoft KDT 부트캠프 (iOS 2기) 수강 후기 및 회고"
 description: "지난 4개월간 ESTsoft KDT iOS 2기 부트캠프를 수강하며 배운 점과 성장 과정, 그리고 느낀 점을 회고합니다."
