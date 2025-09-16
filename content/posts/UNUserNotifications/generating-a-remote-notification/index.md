@@ -1,6 +1,6 @@
 ---
 date: '2025-09-30T13:28:01+09:00'
-draft: true
+draft: false
 title: '[번역] UNUserNotifications / Generating a Remote Notification (애플 공식 문서)'
 description: "JSON 페이로드와 함께 사용자의 디바이스로 알림을 보내세요."
 tags: ["Remote Notifications", "JSON", "UNNotificationCategory"]

@@ -1,14 +1,12 @@
 ---
 date: '2025-09-15T20:36:49+09:00'
 draft: false
-title: '[번역] UNUserNotifications / Registering your app with APNs (애플 공식 문서)'
+title: '[번역] UNUserNotifications / Declaring your actionable notification types (애플 공식 문서)'
 description: "알림을 서로 구분하고 알림 인터페이스에 액션 버튼을 추가하세요."
 tags: ["UNNotificationAction", "UNNotificationCategory"]
 categories: ["UNUserNotifications"]
 cover:
     image: images/docs_1.jpg
-    caption: ""
-draft: true
 ---
 
 ## Overview
