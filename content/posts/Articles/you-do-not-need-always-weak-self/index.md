@@ -7,6 +7,7 @@ tags: ["Closure", "Capture List", "[Weak self]"]
 categories: ["Articles"]
 cover:
     image: cover.webp
+    hiddenInList: false
 ---
 
 사이클.. 아니, 위 그림에 보이는 그런 사이클이 아닙니다. 강한 순환 참조(strong reference cycles)를 의미하며, iOS 앱에서 뷰 컨트롤러가 메모리 누수를 유발하는 원인이 됩니다. 더 구체적으로, 참조 사이클을 피하기 위해 Swift 클로저 내부에서 `[weak self]`의 사용법과 **self**를 약하게 캡처(capture)하는 게 필요하거나 필요없는 경우에 대해 살펴보고자 합니다.

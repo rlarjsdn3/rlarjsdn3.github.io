@@ -7,6 +7,7 @@ tags: ["CALayer", "anchorPoint", "position"]
 categories: ["Articles"]
 cover:
     image: images/ca.jpg
+    hiddenInList: false
 ---
 ## 개요
 

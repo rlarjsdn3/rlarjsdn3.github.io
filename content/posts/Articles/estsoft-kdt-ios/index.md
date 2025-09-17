@@ -6,7 +6,8 @@ description: "지난 4개월간 ESTsoft KDT iOS 2기 부트캠프를 수강하�
 tags: ["ESTsoft", "KDT", "iOS"]
 categories: ["Articles"]
 cover:
-  image: images/swift.jpg
+    image: images/swift.jpg
+    hiddenInList: false
 ---
 
 

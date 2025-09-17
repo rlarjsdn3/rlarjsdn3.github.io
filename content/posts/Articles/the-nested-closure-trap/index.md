@@ -7,6 +7,7 @@ tags: ["Closure", "Capture List", "[Weak self]"]
 categories: ["Articles"]
 cover:
     image: cover.webp
+    hiddenInList: false
 ---
 
 _DispatchWorkItem_ 내부에 중첩된 애니메이션 클로저를 실행하는 코드가 있다고 가정해보겠습니다.
