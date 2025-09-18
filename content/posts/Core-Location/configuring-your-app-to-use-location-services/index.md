@@ -1,10 +1,10 @@
 ---
 date: '2025-10-15T23:08:40+09:00'
 draft: true
-title: '[번역] CoreLocation / Configuring Your App to Use Location Services (애플 공식 문서)'
+title: '[번역] Core Location / Configuring Your App to Use Location Services (애플 공식 문서)'
 description: "앱이 위치 데이터 수집을 시작할 수 있도록 준비하세요."
 tags: ["CLLocationManger", "CLServiceSession"]
-categories: ["CoreLocation"]
+categories: ["Core Location"]
 cover:
     image: images/docs_1.jpg
 ---
