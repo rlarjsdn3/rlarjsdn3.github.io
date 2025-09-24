@@ -1,6 +1,6 @@
 ---
 date: '2025-09-22T13:00:00+09:00'
-draft: true
+draft: false
 title: 'iOS 개발자를 위한 면접 질문 목록 (레벨 0)'
 description: ""
 tags: ["Interview"]
@@ -8,7 +8,7 @@ categories: ["Articles"]
 cover:
     image: images/swift.jpg
     hiddenInList: false
-weight: 2
+weight: 1
 ---
 
 - 헤더 표시하도록 글 수정하기
