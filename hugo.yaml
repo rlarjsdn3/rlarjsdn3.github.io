@@ -1,6 +1,5 @@
 baseURL: "https://rlarjsdn3.github.io/"
 title: 김소월
-paginatation.pagerSize: 5
 theme: PaperMod
 
 enableRobotsTXT: true
@@ -17,6 +16,10 @@ outputs:
     - HTML
     - RSS
     - JSON
+
+pagination:
+  disableAliases: false
+  pagerSize: 10
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.

@@ -1,13 +1,14 @@
 ---
-date: '2025-09-16T13:00:00+09:00'
-draft: true
+date: '2025-09-20T22:34:21+09:00'
+draft: false
 title: 'iOS 개발자를 위한 면접 질문 목록 (기초)'
-description: ""
+description: "ddd"
 tags: ["Interview"]
 categories: ["Articles"]
 cover:
     image: images/swift.jpg
     hiddenInList: false
+weight: 1
 ---
 
 ## Introduction
