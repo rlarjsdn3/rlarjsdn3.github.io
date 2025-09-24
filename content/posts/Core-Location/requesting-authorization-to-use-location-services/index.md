@@ -1,6 +1,6 @@
 ---
 date: '2025-10-20T22:52:40+09:00'
-draft: true
+draft: false
 title: '[번역] Core Location / Requesting Authorization to Use Location Services (애플 공식 문서)'
 description: "위치 서비스를 사용하기 위한 권한을 얻고, 앱의 권한 상태가 변경될 때 이를 관리하세요."
 tags: ["CLLocationManager", "CLAuthorizationStatus"]
