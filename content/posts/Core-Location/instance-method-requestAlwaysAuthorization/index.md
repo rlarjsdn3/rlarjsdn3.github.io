@@ -1,7 +1,7 @@
 ---
 date: '2025-10-25T13:40:15+09:00'
 draft: false
-title: '[번역] Core Location / CLLocationManager / requestAlwaysAuthorization()'
+title: '[번역] Core Location / CLLocationManager / requestAlwaysAuthorization() (애플 공식 문서)'
 description: "Requests the user’s permission to use location services regardless of whether the app is in use."
 tags: ["requestAlwaysAuthorization", "CLLocationManager"]
 categories: ["Core Location"]
