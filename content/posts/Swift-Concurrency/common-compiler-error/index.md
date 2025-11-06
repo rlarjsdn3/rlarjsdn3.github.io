@@ -1,6 +1,6 @@
 ---
 date: '2025-10-10T13:36:33+09:00'
-draft: false
+draft: true
 title: '[번역] Swift Concurrency / Common Compiler Error (애플 공식 문서)'
 description: "Identify, understand, and address common problems you can encounter while working with Swift concurrency."
 tags: ["", "", ""]
