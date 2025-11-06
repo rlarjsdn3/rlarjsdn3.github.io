@@ -1,5 +1,5 @@
 ---
-date: '2025-11-05T10:22:07+09:00'
+date: '2025-12-15T10:22:07+09:00'
 draft: false
 title: '[번역] Core Location / Creating a Location Push Service Extension (애플 공식 문서)'
 description: "다른 사용자의 요청에 응답해 사용자의 위치에 접근할 수 있도록 위치 공유 앱에 확장을 추가하고 구성하세요."
