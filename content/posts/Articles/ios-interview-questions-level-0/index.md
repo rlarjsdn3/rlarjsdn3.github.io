@@ -1,6 +1,6 @@
 ---
 date: '2025-09-22T13:00:00+09:00'
-draft: true
+draft: false
 title: 'iOS 개발자를 위한 면접 질문 목록 (레벨 0)'
 description: ""
 tags: ["Interview"]
@@ -8,7 +8,7 @@ categories: ["Articles"]
 cover:
     image: images/swift.jpg
     hiddenInList: false
-weight: 2
+weight: 1
 ---
 
 ## 1. **컴퓨터 시스템에서 CPU, RAM, 저장 장치의 역할과 이들이 어떻게 상호작용하는지 설명해주세요.**
