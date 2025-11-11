@@ -53,7 +53,7 @@ cover:
 | :--:     | :--:        | :--:         |
 | [SE-0401]() | 프로퍼티 래퍼로 인해 발생하는 액터 격리 추론 제거 | DisableOutwardActorInference |
 | [SE-0412]() | 전역 변수에 대한 엄격한 동시성 | GlobalConcurrency | 
-| [SE-0418]() | 메서드와 키패스 리터럴에 대한 `Sendable` 추론 | InferSendableFromCaptures |
+| [SE-0418]() | 메서드와 키 패스 리터럴에 대한 `Sendable` 추론 | InferSendableFromCaptures |
 
 이 기능들은 서로 독립적으로, 그리고 어떤 순서로든 활성화할 수 있습니다.
 
